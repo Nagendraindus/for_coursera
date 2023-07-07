@@ -5,8 +5,8 @@
 # performed by nagendra kumar- a student o f chanfdoigarh universitrynkd
 # knkfy
 # kfjjf
-
-
+# https://filepress.cfd/file/649e61c5c515a6ae426fa7ba
+# https://new7.gdtot.cfd/file/178841370
 
 echo"Enter the principal:"
 read p    
